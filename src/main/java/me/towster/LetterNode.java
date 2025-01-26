@@ -1,4 +1,4 @@
-package org.example;
+package me.towster;
 
 import java.util.HashMap;
 import java.util.List;
